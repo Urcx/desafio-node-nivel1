@@ -5,10 +5,10 @@ Este desafio é para as pessoas que estão em treinamento ou processo seletivo n
 
 ## Objetivo
 Este Desafio tem como objetivo em avaliar:
- - Abidade de raciocinio do problema
- - Abilidade de planejar o desenvolvimento
+ - Habilidade de raciocinio do problema
+ - Habilidade de planejar o desenvolvimento
  - Codificação do projeto
- - Abilidades com as ferramentas
+ - Habilidades com as ferramentas
 
 ## Como proceder o Desafio
 Para inicar o desafio, primeiramente faça um Fork deste projeto para sua conta no github.
